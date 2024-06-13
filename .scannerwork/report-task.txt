@@ -1,0 +1,6 @@
+projectKey=elasticsearch2
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=elasticsearch2
+ceTaskId=AZAO-F-DMmvWjkQhXANy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZAO-F-DMmvWjkQhXANy
